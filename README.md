@@ -7,3 +7,5 @@ Here, is an image to show the update rule of Q-leaning.<br><br>
 <img src="Q_learning.png" width = "900" height = "100"><br>
 
 <B><h3>PERFORMANCE :</h3></B>
+<h4><B>So, here are some graphics, how our cart behaved at it initial phases.</B></h4><br>
+![github]("https://github.com/AYUSH-ISHAN/CartPole-Q-Learning/blob/main/cart-pole_%20intial%20phases.gif")
