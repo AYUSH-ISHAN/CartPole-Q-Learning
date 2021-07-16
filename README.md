@@ -8,4 +8,4 @@ Here, is an image to show the update rule of Q-leaning.<br><br>
 
 <B><h3>PERFORMANCE :</h3></B>
 <h4><B>So, here are some graphics, how our cart behaved at it initial phases.</B></h4><br>
-![github](https://github.com/AYUSH-ISHAN/CartPole-Q-Learning/blob/main/demo.gif)
+![github](https://github.com/AYUSH-ISHAN/CartPole-Q-Learning/blob/main/assets/demo.gif)
